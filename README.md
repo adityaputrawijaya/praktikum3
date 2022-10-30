@@ -2,17 +2,19 @@
  ## Latihan 1
  ### Penggunaan End
  #### - 
- ![Gambar1](
- ![Gambar1](
+ ![Gambar1](gambar/gmbr1.png)
+ ![Gambar1](gambar/gmbr2.png)
  ## Penggunaan Separator
  #### - Penggunaan separator pada python berfungsi sebagai pemisah setiap variabel yang telah diberi nilai
- ![Gambar1](
- ![Gambar](
+ ![Gambar1](gambar/gmbr3.png)
+ ![Gambar](gambar/gmbr4.png)
  ## String Format
  #### - String Formatting atau performatan string memungkinkan kita menyuntikan item ke dalam string dari pada kita mencobamenggabungkan string menggunakan koma atau string concatenation.
- ![Gambar](
- ![Gambar](
+ ![Gambar](gambar/gmbr5.png)
+ ![Gambar](gambar/gmbr6.png)
  #### - Ini adalah contoh string formatting 
+ ![Gambar](gambar/gmbr7.png)
+ ![Gambar](gambar/gmbr8.png)
  #### - Ada tiga cara untuk melakukan performatan string
  ##### - Metode lama menggunakan placeholder menggunakan karakter '%'(modulo)'
  ##### - Teknik yang diinginkan menggunakan metode string .format()
@@ -22,12 +24,12 @@
  #### - Beri inputan pada variabel
  #### - Setelah diberi input, ekspresikan variabel yang telah diberi inputan
  #### - Lalu lita coba menggabungkan variabel a dan b dengan *Formatting String*
- ![Gambar1][(
+ ![Gambar1][(gambar/gmbr9.png)
  ### Konversi nilai variabel
  #### - Konversi nilai variabel yang masih berbentuk 'string' pada 'intregen'
  #### - Setelah itu menjumlahkan dan membagi dengan mengekspresikan dalam bentuk *Formatting String*
- ![Gambar](
- ![Gambar](
+ ![Gambar](gambar/gmbr10.png)
+ ![Gambar](gambar/gmbr11.png)
  ## Latihan 3
  ### Buatlah kode program menggunakan string formattinguntuk menghasilkan output seperti gambar dibawah ini
  ![Gambar](
@@ -46,10 +48,10 @@
  ![Gambar1](
  ![Gambar](
  ## Pratikum 3
- ![Gambar](
+ ![Gambar](gambar/gmbr14.png)
  ### Hasil pratikum 3 yang telah saya lakukan yaitu:
  #### - Dapat memahami algoritma lingkaran yang diproses dala python 
  #### - Dapat menjelaskan bagaimana langkah-langklah membuat algoritma lingkaran pada python
  #### - Dapat membuat *Flowchart* algoritma dengan baik dan benar
  #### - Dapat mengoprasikan langsung algoritma lingkaran pada python
- ![Gambar1](
+ ![Gambar](gambar/gmbr15.png)
