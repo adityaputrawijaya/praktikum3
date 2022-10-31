@@ -1,7 +1,7 @@
  # praktikum 3
  ## Latihan 1
  ### Penggunaan End
- #### - 
+ #### - end berfungsi untuk mengganti karakter terakhir bawaan yang dicetak di layar. Jadi secara bawaan, setiap kali kita memanggil fungsi print() untuk mencetak sesuatu, python akan mencetak karakter ganti baris ( ) di setiap output.
  ![Gambar1](gambar/gmbr1.png)
  ![Gambar1](gambar/gmbr2.png)
  ## Penggunaan Separator
