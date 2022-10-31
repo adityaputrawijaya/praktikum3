@@ -46,12 +46,12 @@
  ```
  ### - Agar menampilkan output yang sama dengan latihan 3.1 yaitu dengan menjalankan hasil dari statement yang telah di buat dan setelah itu kita di suruh menginput *numeric* 5
  ![Gambar1](gambar/gmbr13.png)
- ![Gambar](gambar/gmbr14.png)
+ ![Gambar](gambar/gmbr16.png)
  ## Pratikum 3
- ![Gambar](gambar/gmbr15.png)
+ ![Gambar](gambar/gmbr14.png)
  ### Hasil pratikum 3 yang telah saya lakukan yaitu:
  #### - Dapat memahami algoritma lingkaran yang diproses dala python 
  #### - Dapat menjelaskan bagaimana langkah-langklah membuat algoritma lingkaran pada python
  #### - Dapat membuat *Flowchart* algoritma dengan baik dan benar
  #### - Dapat mengoprasikan langsung algoritma lingkaran pada python
- ![Gambar](gambar/gmbr16.png)
+ ![Gambar](gambar/gmbr15.png)
