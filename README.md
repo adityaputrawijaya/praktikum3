@@ -45,8 +45,8 @@
  print('{0:>11}'.format(" * "))
  ```
  ### - Agar menampilkan output yang sama dengan latihan 3.1 yaitu dengan menjalankan hasil dari statement yang telah di buat dan setelah itu kita di suruh menginput *numeric* 5
- ![Gambar1](gambar/gmbr13.png)
- ![Gambar](gambar/gmbr16.png)
+ ![Gambar1](gambar/gmbr13.jpeg)
+ ![Gambar](gambar/gmbr16.jpeg)
  ## Pratikum 3
  ![Gambar](gambar/gmbr14.png)
  ### Hasil pratikum 3 yang telah saya lakukan yaitu:
