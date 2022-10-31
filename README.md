@@ -32,7 +32,7 @@
  ![Gambar](gambar/gmbr11.png)
  ## Latihan 3
  ### Buatlah kode program menggunakan string formattinguntuk menghasilkan output seperti gambar dibawah ini
- ![Gambar](
+ ![Gambar](gambar/gmbr12.png)
  ```
  print('{0:>11}'.format(" * "))
  print('{0:>13}'.format(" * * * "))
@@ -45,13 +45,13 @@
  print('{0:>11}'.format(" * "))
  ```
  ### - Agar menampilkan output yang sama dengan latihan 3.1 yaitu dengan menjalankan hasil dari statement yang telah di buat dan setelah itu kita di suruh menginput *numeric* 5
- ![Gambar1](
- ![Gambar](
- ## Pratikum 3
+ ![Gambar1](gambar/gmbr13.png)
  ![Gambar](gambar/gmbr14.png)
+ ## Pratikum 3
+ ![Gambar](gambar/gmbr15.png)
  ### Hasil pratikum 3 yang telah saya lakukan yaitu:
  #### - Dapat memahami algoritma lingkaran yang diproses dala python 
  #### - Dapat menjelaskan bagaimana langkah-langklah membuat algoritma lingkaran pada python
  #### - Dapat membuat *Flowchart* algoritma dengan baik dan benar
  #### - Dapat mengoprasikan langsung algoritma lingkaran pada python
- ![Gambar](gambar/gmbr15.png)
+ ![Gambar](gambar/gmbr16.png)
