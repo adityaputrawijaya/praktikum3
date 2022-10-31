@@ -24,7 +24,7 @@
  #### - Beri inputan pada variabel
  #### - Setelah diberi input, ekspresikan variabel yang telah diberi inputan
  #### - Lalu lita coba menggabungkan variabel a dan b dengan *Formatting String*
- ![Gambar1][(gambar/gmbr9.png)
+ ![Gambar1](gambar/gmbr9.png)
  ### Konversi nilai variabel
  #### - Konversi nilai variabel yang masih berbentuk 'string' pada 'intregen'
  #### - Setelah itu menjumlahkan dan membagi dengan mengekspresikan dalam bentuk *Formatting String*
